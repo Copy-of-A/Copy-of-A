@@ -6,7 +6,7 @@ Frontend Web Developer
 
 * 🌍  I'm based in Georgia
 * ✉️  You can contact me at [alla.manshina4@gmail.com](mailto:alla.manshina4@gmail.com)
-* 🚀  I'm currently working on [glassesusa.com](http://glassesusa.com)
+* 🚀  I'm currently working on [optimax.dev](https://optimax.dev)
 * 🧠  I'm learning architectural methodologies and new frameworks
 * 🤝  I'm open to collaborating on interesting open source projects
 
